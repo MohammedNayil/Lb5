@@ -26,6 +26,6 @@ public class Sorter {
         }
     }
     public static void sort(int[] arr){
-        insertionSort(new int[]{1,2,3});
+        selectionSort(new int[]{1,2,3});
     }
 }
