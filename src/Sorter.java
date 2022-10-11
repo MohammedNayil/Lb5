@@ -25,4 +25,7 @@ public class Sorter {
             arr[i] = smallerNumber;
         }
     }
+    public static void sort(int[] arr){
+        insertionSort(new int[]{1,2,3});
+    }
 }
